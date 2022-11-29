@@ -1,0 +1,18 @@
+{
+    "same_industry": 0,
+    "dispute": 1,
+    "fall": 2,
+    "rise": 3,
+    "cooperate": 4,
+    "supply": 5,
+    "reduce_holding": 6,
+    "increase_holding": 7,
+    "superior": 8,
+    "be_increased_holding": 9,
+    "invest": 10,
+    "be_reduced_holding": 11,
+    "compete": 12,
+    "be_supplied": 13,
+    "be_invested": 14,
+    "subordinate": 15
+}
